@@ -1,1 +1,2 @@
-# Proyecto
+# Proyecto GastoApp
+GastoApp es una aplicación de escritorio desarrollada en Python con Tkinter y SQLite, diseñada para ayudar a familias y pequeños hogares a gestionar sus finanzas. Permite registrar ingresos y gastos, categorizarlos, generar reportes visuales (gráficos de barras, circulares y tendencias), y obtener resúmenes financieros con consejos personalizados. Su interfaz intuitiva y offline la hace ideal para usuarios no técnicos que buscan una solución gratuita y colaborativa para organizar su presupuesto familiar.
